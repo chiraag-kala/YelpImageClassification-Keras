@@ -1,7 +1,7 @@
 # Understanding a Restaurant’s Digital Footprint on Social Media
 **Project Contributors:** Chiraag (Monu) Kala, Omar AlShaye, and Dan McDonough
 
-**Business Opportunity -  The images and posts people share about restaurants matter, and it is important that restaurants understand their digital data on social media.**
+**Business Opportunity -  The images and posts people share about restaurants matter, and it is important that restaurants understand their digital footprint and data on social media.**
 * There are over 341M posts for #food and 199M posts for #foodporn on Instagram
 * When choosing a restaurant, Gen Z and Millennials are 99 percent more likely to rely on social media and online reviews than Gen X and Boomers. 
 * Nearly 72% of customers have used Facebook to make restaurant decisions, based on comments and images that have been shared by other users.
