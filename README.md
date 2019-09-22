@@ -8,8 +8,8 @@
 * A one-star increase in a restaurant’s Yelp rating can result in as much as a 9 percent increase in revenue.
 
 **Product Idea**
-**1. For a given restaurant, scrape all the images shared on social media (Instagram location tags, restaurant hashtag, Facebook location tag, etc.)
-2. Use Convolutional Neural Network (CNN) to classify all the images into the following categories - food, drink, inside, and outside and return the summary statistics to the restaurant**
+1. For a given restaurant, scrape all the images shared on social media (Instagram location tags, restaurant hashtag, Facebook location tag, etc.)**
+2. Use Convolutional Neural Network (CNN) to classify all the images into the following categories - food, drink, inside, and outside and return the summary statistics to the restaurant
 
 **Dataset Used** - Yelp has an all-purpose dataset online for an ongoing competition, which has 200,000 images and over 6.6M reviews collected from 10 major cities across the US. 
 Link - https://www.yelp.com/dataset/challenge
