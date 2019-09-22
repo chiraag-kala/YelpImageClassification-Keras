@@ -1,5 +1,5 @@
 # Understanding a Restaurant’s Digital Footprint on Social Media
-**Project Contributors:** Chiraag Kala, Omar AlShaye, and Dan McDonough
+**Project Contributors:** Chiraag (Monu) Kala, Omar AlShaye, and Dan McDonough
 
 **Business Opportunity -  The images and posts people share about restaurants matter, and it is important that restaurants understand their digital data on social media.**
 * There are over 341M posts for #food and 199M posts for #foodporn on Instagram
